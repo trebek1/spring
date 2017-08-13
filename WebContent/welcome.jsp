@@ -18,3 +18,17 @@
 		
 	</body>
 </html>
+
+<!-- JSTL is JavaServerPages Standard Tag Library is a collection of useful JSP Tags -->
+<!-- similar to html tags and used in jsp files 
+help implement lots of core functionality such as itteration and 
+conditional tags for manipulating XML documents -->
+
+<!-- Library indicates that it is a collection of java classes packed into .jar (java archive file) that 
+we can download into our project -->
+
+<!-- Groups based on required fuctionality. Start by using <c:out/> for outputting data 
+and <c:forEach/> for iterating over collections -->
+
+  
+ 
